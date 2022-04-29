@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CheDosMistos. I :sparkling_heart: Git. Thankyou Mr. Torvalds...
-- 👀 I am interested in finding my way to EX Programming (and Climbing!).
+- 👀 I am interested in finding my way to EX Programming (and Climbing! 🧗).
 - 🌱 I am learning everything I should have known years ago.
 - 💞️ I’m looking to collaborate on ...
 - 📫 I'm not on Facebook, Twitter or LinkedIn.
