@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @CheDosMistos. I :sparkling_heart: Git. Thankyou Mr. Torvalds...
-- 👀 I am interested in finding my way to EX Programming (and Climbing! 🧗).
-- 🌱 I am learning everything I should have known years ago.
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Alejandro Mallo.
+- 👀 I am interested in finding my way to become a full-fledged software developer, not just another "junior" programmer. (and Climbing! 🧗 6C+).
+- 🌱 I am learning everything I should have known years ago. I started working as a full stack web developer in 2008. I am currently relearning everything from the basics.
 - 📫 I'm not on Facebook, Twitter or LinkedIn.
 
 <!---
